@@ -7,7 +7,9 @@ body{
     border-radius: 0px;
 }
 
-
+a{
+    text-decoration: none;
+}
 header{
     height: 78px;
     background: #FFFFFF;
@@ -96,6 +98,7 @@ header{
     height: 54px;
     width: 560px;
     border-radius: [object Object]px;
+    border: 0px ;
     
 }
 .container>form{
