@@ -4,7 +4,6 @@
 }
 body{
     font-family: 'roboto' sans-serif;
-    /* border: 2px solid #000000; */
     border-radius: 0px;
 }
 
@@ -77,7 +76,6 @@ header{
 
 .subscribe{
     padding: 92px;
-    height: 421px;
     background: #FAC960;
     border-radius: 0px;
 }
@@ -107,6 +105,7 @@ header{
 .input-mail{
     padding-left: 36px;
     padding-right: 194px;
+    margin-top: 40px;
     color: #999999;
     font-size: 30px;
     background: #fff;
@@ -120,7 +119,7 @@ header{
     font-size: 30px;
     line-height: 52px;
     cursor: pointer;
-    margin-top: 40px;
+    margin-top: 20px;
     border-radius: 0px 2px 2px 0px;
     border: none;
     color: #fff
